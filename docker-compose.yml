@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  speedcamdockerbuild:
+    image: speedcamdockerbuildmqtt
+    build:
+      context: .
+      dockerfile: ./Dockerfile
