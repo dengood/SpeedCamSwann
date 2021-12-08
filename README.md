@@ -1,4 +1,4 @@
-# SpeedCamSwann
+# Swann Speed Camera
 
 For what I lack in forsight in terms of purchasing a family home in a nice peaceful neighborhood I make for in pettiness.  Well pettiness, maybe not.  I like to think there is good reason for speed limits and that reason must in some way be related to safety of the general public.  Thankfully we live in Texas and there are no speedlimits in Texas.  According to dallasattorney.com you are speeding if your rate of speed is “unreasonable and imprudent under the circumstances then existing.”  Now I cannot attest to how many speeding tickets have been successfully dismissed based on the statutes as they exist under Texas law but for all those that confidently exchange reasonable courtesy for the letter of the law may you be emboldened.  
 
